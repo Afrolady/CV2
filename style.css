@@ -3,9 +3,8 @@
 .contact-info {
 
     width: 30%;
-    height: 200rem;
+    height: 110rem;
     background-color: rgb(1, 56, 95);
-
 }
 
 /* hacer que el remm equivalga a pixeles en css formula matematica 
@@ -13,20 +12,26 @@ REM Eequivale a 16 pixeles*/
 
 .profile1{
     width: 100%;
-    height: 200px;
-
-    
+    height: 200px    
 }
 
 .profile2 {
     width: 80%;
     height: 800px;
-    
 
 }
 
+.right-part{
+    margin-left: 50%;
+    margin-top: 2%;
+    color: black;
+    font-weight: bold;
+    font-size: xx-large;
+    font: size 30%;
+    width: 100%;
+    height: 200px;
+    background-color: aqua;
 
-.contact {
-    
 }
+
 
